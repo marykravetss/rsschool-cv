@@ -9,3 +9,10 @@
 - **GitHub:** [marykravetss](https://github.com/marykravetss)
 
 ---
+
+## Skills:
+- Git, GitHub
+- HTML/CSS
+- JavaScript basics
+
+---
