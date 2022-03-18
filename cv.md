@@ -40,3 +40,8 @@ function makeUpperCase(str) {
 I completed a course in html/css and javascript at the [Myfreedom](https://myfreedom.by/) IT school.
 
 ---
+
+## Languages:
+
+- **Russian** - native speaker
+- **English** - A2 (B1 in process)
