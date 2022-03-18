@@ -5,3 +5,15 @@
 .columns{
     display: flex;
 }
+
+.footerDiv{
+display: flex;
+justify-content: space-between;
+
+}
+
+.githubImg{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
