@@ -1,0 +1,140 @@
+.photo{
+    border-radius: 150px;
+    margin-left: 50px;
+    border: 4px solid #a4c8d5b7;
+    margin-bottom: -10px;
+}
+
+.columns{
+    display: flex;
+    font-family: Times, Times New Roman, serif;
+    font-size: 18px;
+}
+
+header{
+    padding-top: 20px;
+}
+
+.firstName{
+    font-size: 32px; 
+    font-weight: 500;
+    padding-left: 25px;
+}
+
+.headerContacts, .headerSkills, .headerMyself, .headerCode, .headerCourses, .headerLanguage{
+    /*padding-left: 55px; */
+    font-size: 23px; 
+    font-weight: 400;
+}
+
+.headerContacts, .headerSkills{
+    margin-left: 25px;
+    border-bottom: 1px solid grey ;
+    padding-bottom: 5px;
+}
+
+li{
+    padding-bottom: 5px;
+    
+}
+
+ul{
+    padding-left: 38px;
+}
+
+.leftColumn{
+    flex: 0 0 17em;
+    padding-left: 20px;
+    background-color: #f1ddd599;
+    border-left: #4c3228;
+}
+
+.rightColumn{
+    padding-top: 47px;
+    padding-left: 23px;
+    padding-right: 23px;
+    background-color: #bdd8ddaf;
+}
+
+.footerDiv{
+display: flex;
+justify-content: space-between;
+padding-left: 20px;
+padding-right: 23px;
+background-color: #4c3228;
+color: rgb(230, 224, 224);
+}
+
+
+a{
+    text-decoration: none;
+    color: #535252;
+}
+
+.githubImg{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: rgb(230, 224, 224);
+    
+}
+.git{
+    padding-right: 5px;
+}
+
+.container{
+    /*margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 50px;*/
+    width: 1024px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    color: #535252;
+}
+
+.contactsList{
+    list-style: none;
+}
+
+.contactsList  li p{
+    display: inline;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.contactsList li img{
+    vertical-align: middle;
+}
+
+.contactsList  li a{
+    display: inline;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.rsSchool{
+    padding-top: 10px; 
+}
+
+.codeField{
+    background-color: #f4f5ff;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+    margin-right: 330px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.myself{
+    text-align: justify;
+}
+
+.languages ul {
+    padding-left: 30px;
+}
+
+.skillsList{
+    padding-left: 50px;
+}
