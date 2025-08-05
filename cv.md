@@ -15,7 +15,6 @@
 - HTML/CSS
 - JavaScript basics
 123412341234
-123412341234
 ---
 
 ## About Myself:
